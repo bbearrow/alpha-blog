@@ -1,1 +1,1 @@
-This is the repository for the first alpha-blog app of the Complete Ruby on Rails Developer Course.  Right now I am just going to test committing something again, because it is cool.
+This is the repository for the first alpha-blog app of the Complete Ruby on Rails Developer Course.  Right now I am just going to test committing something again, because it is cool.  Testing push only
